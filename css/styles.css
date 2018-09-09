@@ -1,0 +1,15 @@
+body, .jumbotron {
+	background-color: #5ACEBE;
+	border: 4px solid #f8f8fa;
+}
+
+.jumbotron p {
+	margin-top: 20%;
+	font-size: 12px;
+	
+}
+
+a {
+	text-decoration: underline;
+	color: #F7351E;
+}
